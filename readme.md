@@ -1,0 +1,1 @@
+This will be the first C project that I will create on github, this is intended to work as practice on this language on which a lot of others are based upon.
